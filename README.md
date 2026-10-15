@@ -64,7 +64,7 @@ El proyecto utiliza localStorage para recordar el nombre de usuario cuando se ac
 
 Este almacenamiento es del lado del cliente y no sustituye un sistema de autenticación seguro en un servidor.
 
-Autor
+## Autor
 Proyecto desarrollado como práctica de diseño y programación web.
 
 Estado del proyecto
