@@ -2,7 +2,7 @@ name: testPush
 
 on:
   push:
-      branches: [prog2]
+      branches: [Prom2]
 
   jobs:
     build: 
@@ -18,6 +18,6 @@ on:
         uses: stefanzwei/git-auto-commit-action@v7
         whit: 
             commint_message: Archivos actualizados #Archi
-            commint_user_name: prog2
+            commint_user_name: Prom2
             commint_user_email: L23070019@hutamo.tecnm.mx
             commint_author: Jeremy Shafikc
